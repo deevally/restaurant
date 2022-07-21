@@ -84,6 +84,7 @@ padding-left: 5%;
   color: rgb(255, 255, 255);
   white-space: nowrap;
   z-index: 0;
+  background: #E69335 !important;
 } 
 
 
@@ -122,11 +123,18 @@ padding-left: 5%;
   transition: color 0.3s ease, background 0s ease;
 } 
 
+.impotant{
+  background: #E69335 !important;
+  background-color: #E69335 !important;
+  font-size: large;
+  font-weight: 400;
+}
 
 .hb-fill-middle2-br:hover {
   color: rgb(0, 0, 0);
   background: rgb(255, 255, 255);
   transition: color 0.3s ease, background 0s ease 0.3s;
+  
 } 
 
 
